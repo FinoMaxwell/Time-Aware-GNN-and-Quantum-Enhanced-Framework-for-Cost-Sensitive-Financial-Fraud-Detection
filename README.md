@@ -67,7 +67,7 @@ A key focus is **cost-sensitive evaluation**: rather than optimizing accuracy on
 
 ```bash
 git clone https://github.com/FinoMaxwel/Time-Aware-GNN-and-Quantum-Enhanced-Framework-for-Cost-Sensitive-Financial-Fraud-Detection.git
-cd quantum-fraud-detection
+cd Time-Aware-GNN-and-Quantum-Enhanced-Framework-for-Cost-Sensitive-Financial-Fraud-Detection
 pip install -r requirements.txt
 ```
 
