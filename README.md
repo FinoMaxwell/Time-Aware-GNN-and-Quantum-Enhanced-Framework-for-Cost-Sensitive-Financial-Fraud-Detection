@@ -2,7 +2,6 @@
 
 A research-grade fraud detection pipeline comparing **Graph Neural Networks (GCN)**, **Variational Quantum Circuits (VQC)**, and classical ML baselines on real Nigerian financial transaction data.
 
-> Capstone Research Project — [Your Institution Name]
 
 ---
 
